@@ -1,0 +1,2 @@
+title url: https://jsonplaceholder.typicode.com/albums
+albums url: https://jsonplaceholder.typicode.com/photos?albumId=1
